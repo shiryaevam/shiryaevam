@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/wide/674349775434bf319aa47104?variant=dark&roadmaps=%2Cfrontend)](https://roadmap.sh)
+
 <!--
 **shiryaevam/shiryaevam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
